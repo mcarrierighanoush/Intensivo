@@ -1,4 +1,3 @@
-
 var numeroSecreto = parseInt(Math.random() * 1000) + 1;
 var tentativas = 0;
 
